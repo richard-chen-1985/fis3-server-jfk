@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richard-chen-1985/fis3-server-jfk.git"
+    "url": "git+https://github.com/richardchen85/fis3-server-jfk.git"
   },
   "keywords": [
     "fis3",
@@ -19,9 +19,9 @@
   "author": "richard chen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richard-chen-1985/fis3-server-jfk/issues"
+    "url": "https://github.com/richardchen85/fis3-server-jfk/issues"
   },
-  "homepage": "https://github.com/richard-chen-1985/fis3-server-jfk#readme",
+  "homepage": "https://github.com/richardchen85/fis3-server-jfk#readme",
   "dependencies": {
     "tar": "^2.2.1"
   }
